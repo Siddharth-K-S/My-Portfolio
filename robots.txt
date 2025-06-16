@@ -1,0 +1,16 @@
+<pre style="background:#f4f4f4;padding:1em;border:1px solid #ccc;font-family:monospace;">
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Allow: /
+</pre>
